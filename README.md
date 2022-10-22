@@ -1,5 +1,10 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Aini Rizkina
+NIM : 21343002
+
+Pada Jobsheet 9 ini membahas tentang Java Class
+- Pass By Value
+- Pass By Reference
+- Perbandingan Object
+ Contoh Perbandingan : Object - Car Properties. - type of transmission manufacturer ,color. Behavior - turning braking accelerating.
+ Object - Lion Properties - weight, color, hungry or not hungry, tamed or wild. Behavior - Roaring, Slepping, hunting.
+- Pemanggilan Method Menggunakan Parameter
